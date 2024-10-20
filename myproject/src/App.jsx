@@ -1,6 +1,3 @@
-
-
-
 let UC="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let LC='abcdefghijklmnopqrstuvwxyz';
 let NO="0123456789";
